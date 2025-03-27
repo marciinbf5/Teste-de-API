@@ -1,0 +1,30 @@
+"response": [
+  {
+    "name": "Exemplo de resposta",
+    "originalRequest": {
+      "method": "GET",
+      "header": [
+        {
+          "key": "Content-Type",
+          "value": "application/json"
+        }
+      ],
+      "url": {
+        "raw": "http://localhost:5000/buscar?termo=saúde",
+        "protocol": "http",
+        "host": ["localhost"],
+        "port": "5000",
+        "path": ["buscar"],
+        "query": [
+          {
+            "key": "termo",
+            "value": "saúde"
+          }
+        ]
+      }
+    },
+    "status": "200 OK",
+    "code": 200,
+    "body": "[{\"codigo\": \"123\", \"nome\": \"Operadora Saúde Ltda\", \"regiao\": \"Sul\"}]"
+  }
+]
