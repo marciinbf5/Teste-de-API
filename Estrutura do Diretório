@@ -1,0 +1,16 @@
+
+/meu-projeto
+├── /frontend
+│   └── /src
+│       └── /components
+│       └── App.vue
+│       └── main.js
+│       └── /assets
+├── /backend
+│   └── /app
+│       └── /static
+│       └── /templates
+│       └── app.py
+│       └── operadoras.csv
+├── README.md
+└── requirements.txt
