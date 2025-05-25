@@ -54,20 +54,10 @@ Este projeto consiste em um sistema de busca que oferece uma interface intuitiva
 
 ---
 
-## Estrutura do Projeto
-├── backend/
-│ ├── server.py # Backend Flask que serve a API
-│ ├── operadoras.csv # Arquivo CSV com dados das operadoras
-│ └── requirements.txt # Dependências Python
-├── frontend/
-│ ├── App.vue # Componente Vue.js principal da interface
-│ ├── package.json # Configuração do frontend (npm)
-│ └── ... # Outros arquivos do Vue.js
-├── README.md # Este arquivo
 
 ## Instalação e Configuração
 
-### Backend
+### Iniciando o projeto
 
 1. Clone o repositório e navegue até a pasta backend:
 
