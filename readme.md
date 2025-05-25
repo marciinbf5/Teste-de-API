@@ -76,9 +76,6 @@ python server.py
 
 Navegue até o diretório frontend:
 
-bash
-Copiar
-Editar
 cd ../frontend
 npm install
 npm run serve
